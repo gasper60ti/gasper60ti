@@ -2,7 +2,7 @@
   <img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-<h1 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/> ! I am Ilyas, Full Stack Web Developer</h2>
+<h1 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/> ! I am Nasro, Full Stack Web Developer</h2>
 
 <br clear="both">
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about anything related to the web.
 
-- 📫 Reach me via [i.benhammadi@esi-sba.dz](mailto:i.benhammadi@esi-sba.dz).
+- 📫 Reach me via [n.fliti@esi-sba.dz](mailto:i.benhammadi@esi-sba.dz).
 
 <br clear="both">
 
@@ -104,16 +104,14 @@
 ## Contact Info
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ilyas-benhammadi/" target="_blank">
+  <a href="https://www.linkedin.com/in/nasreddine-fliti-219193205/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:i.benhammadi@esi-sba.dz" target="_blank">
+  <a href="mailto:n.fliti@esi-sba.dz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/users/682623938115010667" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.facebook.com/0ilyas.benhammadi0/" target="_blank">
+
+  <a href="https://web.facebook.com/nasro.flt.07/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
