@@ -2,25 +2,26 @@
   <img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-<h1 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/> ! I am Nasro, Full Stack Web Developer</h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/> ! I am Nasreddine, Full Stack Web Developer</h1>
+<h3 align="center">Perfection driven software developer</h3>
 
 <br clear="both">
 
 ## About
 
-- 🌱 I’m currently a fourth year software engineering student.
+- 🌱 I’m currently a fourth year **software engineering student**.
 
-- 👯 I’m looking to collaborate on open source software projects.
+- 👯 I’m looking to collaborate on any interresting software project.
 
 <!---- 👨‍💻 All of my projects are available at -->
 
 - 💬 Ask me about anything related to the web.
 
-- 📫 Reach me via [n.fliti@esi-sba.dz](mailto:i.benhammadi@esi-sba.dz).
+- 📫 Reach me via [n.fliti@esi-sba.dz](mailto:n.fliti@esi-sba.dz).
 
 <br clear="both">
 
-## Languages and Technologies I'm proficient at
+## Languages and Tools 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
   <img width="20" />
@@ -36,6 +37,12 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="35" alt="nestjs logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="35" alt="spring logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
@@ -46,11 +53,11 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgres logo"  />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="35" alt="firebase logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="20" />
@@ -71,11 +78,15 @@
 
 ## Other Technologies I Used
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="vuejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="35" alt="nginx logo"  />
+  <img width="20" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="google cloud logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="35" alt="spring logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/jquery/0769AD" height="35" alt="jquery logo"  />
   <img width="20" />
@@ -87,31 +98,21 @@
 ## Github Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mitchi-02&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
-  <br clear="both">
-  <br clear="both">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitchi-02&hide_title=false&hide_rank=false&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&custom_title=My%20Github%20Stats" height="160" alt="stats graph"  />
-  <img width="50" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mitchi-02&locale=en&hide_title=false&hide_border=true&layout=compact&card_width=320&langs_count=5&theme=dracula" height="160" alt="languages graph"  />
-  <br clear="both">
-  <br clear="both">
-  <img alt="followers" src="https://img.shields.io/github/followers/Mitchi-02?label=Followers&style=social">
-  <img width="20" />
-  <img src="https://komarev.com/ghpvc/?username=Mitchi-02&color=blue" alt="watching_count" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gasper60ti&show_icons=true&locale=en&layout=compact" alt="gasper60ti" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gasper60ti&show_icons=true&locale=en" alt="gasper60ti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gasper60ti&" alt="gasper60ti" /></p>
+
 </div>
 
 
 ## Contact Info
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nasreddine-fliti-219193205/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:n.fliti@esi-sba.dz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-
-  <a href="https://web.facebook.com/nasro.flt.07/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
+  <a href="https://linkedin.com/in/fliti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fliti" height="30" width="40" /></a>
+<a href="https://www.behance.net/gaspercreates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gaspercreates" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/gaspercreates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gaspercreates" height="30" width="40" /></a>
+<a href="https://discord.gg/gasper0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gasper0000" height="30" width="40" /></a>
 </div>
