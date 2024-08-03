@@ -2,7 +2,7 @@
   <img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/> ! I am Nasreddine, Full Stack Web Developer</h1>
+<h1 align="center">Hi <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFiN2R5cW4xZmpqcHdpb2Q2eGRqcGZrcmRteDJkeHd1Y2k2ejd6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wv1RNuvWMjQ10bzExO/giphy.gif" width="20"/> ! I am Nasreddine, Full Stack Web Developer</h1>
 <h3 align="center">Perfection driven software developer</h3>
 
 <br clear="both">
