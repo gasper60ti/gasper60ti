@@ -4,14 +4,16 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/> ! I am Nasreddine, Full Stack Web Developer</h1>
 <h3 align="center">Perfection driven software developer</h3>
+<h3 align="center">Perfection driven software developer</h3>
+<p align="center">Remember, contributions are here just to give you a feeling of accomplishment... They don't distinguish a good from a bad dev!</p>
 
 <br clear="both">
 
 ## About
 
-- 🌱 I’m currently a fourth year **software engineering student**.
+  - 🌱 I’m currently a final year Master's **software engineering student**.
 
-- 👯 I’m looking to collaborate on any interresting software project.
+- 👯 Looking to collaborate on any interresting software project.
 
 <!---- 👨‍💻 All of my projects are available at -->
 
