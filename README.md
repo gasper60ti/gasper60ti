@@ -4,9 +4,16 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/> ! I am Nasreddine, Full Stack Web Developer</h1>
 <h3 align="center">Perfection driven software developer</h3>
-<h3 align="center">Perfection driven software developer</h3>
-<p align="center">Remember, contributions are here just to give you a feeling of accomplishment... They don't distinguish a good from a bad dev!</p>
-
+<p align="center" >Remember, contributions are here just to give you a feeling of accomplishment... They don't distinguish a good from a bad dev!</p>
+<dl>
+  <dd>
+    <dl>
+      <dd>
+        Remember, contributions are here just to give you a feeling of accomplishment... They don't distinguish a good from a bad dev!
+      </dd>
+    </dl>
+  </dd>
+</dl>
 <br clear="both">
 
 ## About
