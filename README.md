@@ -4,8 +4,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/> ! I am Nasreddine, Full Stack Web Developer</h1>
 <h3 align="center">Perfection driven software developer</h3>
-<p align="center" >Remember, contributions are here just to give you a feeling of accomplishment...</p>
-<p align="center" >They don't distinguish a good from a bad dev!</p>
 <div align="center" >Remember, contributions are here just to give you a feeling of accomplishment...</div>
 <div align="center" >They don't distinguish a good from a bad dev!</div>
 
